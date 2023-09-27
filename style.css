@@ -52,7 +52,7 @@ h2{
 .image{
     width: 250px;
     height: 250px;
-    background: url("./YHOSN2DH7VCJJDGARZCFNWORDI-removebg-preview.png");
+    background: url("./asset/YHOSN2DH7VCJJDGARZCFNWORDI-removebg-preview.png");
     margin-top: 10px;
     border-radius: 20px;
     background-position: center;
@@ -63,7 +63,7 @@ h2{
 .wrapper .box:nth-child(2) .image{
     width: 250px;
     height: 250px;
-    background: url("./APe-270-removebg-preview.png");
+    background: url("./asset/APe-270-removebg-preview.png");
     margin-top: 10px;
     border-radius: 20px;
     background-position: center;
@@ -74,7 +74,7 @@ h2{
 .wrapper .box:nth-child(3) .image{
     width: 250px;
     height: 250px;
-    background: url("./1125-removebg-preview.png");
+    background: url("./asset/1125-removebg-preview.png");
     margin-top: 10px;
     border-radius: 20px;
     background-position: center;
